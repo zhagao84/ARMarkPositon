@@ -1,5 +1,5 @@
 # ARMarkPositon
-<img src="DocGen/Images/WorldLockingSamples.svg">
+<!-- img src="DocGen/Images/WorldLockingSamples.svg" -->
 
 # WLT Samples
 

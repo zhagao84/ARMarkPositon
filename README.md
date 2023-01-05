@@ -10,8 +10,8 @@ The project is located within the `SetPosition` Unity scene.
 
 ## Useful links
 
-[World Locking Tools Samples github repo](https://github.com/microsoft/MixedReality-WorldLockingTools-Samples)
-[Google drive of the whole unity document](https://drive.google.com/file/d/1zVV_ax-EhPET7Ulag0wUSd9AeBTiaMqo/view?usp=sharing)
+[World Locking Tools Samples github repo](https://github.com/microsoft/MixedReality-WorldLockingTools-Samples).
+[Google drive of the whole unity document](https://drive.google.com/file/d/1zVV_ax-EhPET7Ulag0wUSd9AeBTiaMqo/view?usp=sharing).
 [video demo on youtube]()
 
 

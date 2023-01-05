@@ -21,9 +21,18 @@ The project is located within the `WorldMarkPosition/SetPosition` Unity scene.
 ## Specified functions
 1.align the virtual scene with the physical world Microsofts World locking tools framework is used. see above link World Locking Tools Samples.
 
-2.Placement and visualization of points (see Creater Point.cs)
+2.Placement and visualization of points (see 'CreaterPoint.cs').
 
-3.
+3.Function for editing point in x,y,z (see 'NearinteractionGrabbable.cs' from the MRTK package).
+
+4. Indicator for z-height above/below terrain(see 'ObjectManipulator.cd' from MRTK package).
+
+5. Possibility to draw multiple polygons(see 'strucPointData.cs' and 'CancellatedStructure.cs').
+
+6.Possibility to draw different types of polygons(see 'SetMark.cs').
+
+7.Export as CSV (see 'Csv.cs').
+
 
 
 
